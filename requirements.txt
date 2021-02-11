@@ -1,0 +1,16 @@
+certifi==2020.12.5
+chardet==4.0.0
+click==7.1.2
+idna==2.10
+joblib==1.0.1
+nltk==3.5
+numpy==1.20.1
+protobuf==3.14.0
+regex==2020.11.13
+requests==2.25.1
+six==1.15.0
+stanza==1.2
+torch==1.7.1
+tqdm==4.56.2
+typing-extensions==3.7.4.3
+urllib3==1.26.3
